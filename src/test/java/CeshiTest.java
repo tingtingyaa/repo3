@@ -1,5 +1,7 @@
 public class CeshiTest {
     public static void main(String[] args) {
+        System.out.println("kkzkk");
+        System.out.println("hsj");
         System.out.println("wwwwwww");
     }
 }
