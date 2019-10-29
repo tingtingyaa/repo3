@@ -3,6 +3,5 @@ public class CeshiTest {
         System.out.println("yayayayyaya");
         System.out.println("hahahhahahahahah");
         System.out.println("hahahhahahahahah");
-
     }
 }
